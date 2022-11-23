@@ -664,3 +664,71 @@
 23:13:22.558 [main] INFO  - Title ::: Bing
 23:13:24.252 [main] INFO  - Search Text ::: Java
 23:13:24.349 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:08:34.487 [main] INFO  - 
+
+>>>>>>Logging on 2022/11/23 20:08:34<<<<<<
+
+20:08:34.489 [main] INFO  - >>>>>>Testcase ::: 1
+20:08:34.489 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:08:34.534 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:08:34.544 [main] INFO  - >>>>>>Testcase ::: 2
+20:08:34.545 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:08:34.550 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:08:34.555 [main] INFO  - >>>>>>Testcase ::: 3
+20:08:34.555 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:08:34.561 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:08:34.567 [main] INFO  - >>>>>>Testcase ::: 4
+20:08:34.568 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:08:34.573 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:08:34.577 [main] INFO  - >>>>>>Testcase ::: 5
+20:08:34.577 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:08:34.581 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:08:34.585 [main] INFO  - >>>>>>Testcase ::: 6
+20:08:34.585 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:08:34.588 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:13:18.175 [main] INFO  - 
+
+>>>>>>Logging on 2022/11/23 20:13:18<<<<<<
+
+20:13:18.176 [main] INFO  - >>>>>>Testcase ::: 1
+20:13:18.177 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:13:19.603 [main] INFO  - Driver Initiation
+20:13:20.573 [main] INFO  - Loading google.com
+20:13:20.580 [main] INFO  - Title ::: Google
+20:13:23.534 [main] INFO  - Search Text ::: Selenium
+20:13:23.665 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:13:23.670 [main] INFO  - >>>>>>Testcase ::: 2
+20:13:23.670 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:13:24.405 [main] INFO  - Driver Initiation
+20:13:25.237 [main] INFO  - Loading google.com
+20:13:25.246 [main] INFO  - Title ::: Google
+20:13:27.256 [main] INFO  - Search Text ::: Python
+20:13:27.379 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:13:27.382 [main] INFO  - >>>>>>Testcase ::: 3
+20:13:27.382 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:13:28.101 [main] INFO  - Driver Initiation
+20:13:28.951 [main] INFO  - Loading google.com
+20:13:28.955 [main] INFO  - Title ::: Google
+20:13:31.089 [main] INFO  - Search Text ::: Java
+20:13:31.197 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:13:31.200 [main] INFO  - >>>>>>Testcase ::: 4
+20:13:31.200 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:13:31.926 [main] INFO  - Driver Initiation
+20:13:32.235 [main] INFO  - Loading bing.com
+20:13:32.246 [main] INFO  - Title ::: Bing
+20:13:33.207 [main] INFO  - Search Text ::: Selenium
+20:13:33.327 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:13:33.330 [main] INFO  - >>>>>>Testcase ::: 5
+20:13:33.331 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:13:34.067 [main] INFO  - Driver Initiation
+20:13:34.367 [main] INFO  - Loading bing.com
+20:13:34.372 [main] INFO  - Title ::: Bing
+20:13:35.276 [main] INFO  - Search Text ::: Python
+20:13:35.400 [main] INFO  - >>>>>>After Scenario<<<<<<
+20:13:35.402 [main] INFO  - >>>>>>Testcase ::: 6
+20:13:35.402 [main] INFO  - >>>>>>Before Scenario<<<<<<
+20:13:36.125 [main] INFO  - Driver Initiation
+20:13:36.421 [main] INFO  - Loading bing.com
+20:13:36.428 [main] INFO  - Title ::: Bing
+20:13:37.494 [main] INFO  - Search Text ::: Java
+20:13:37.629 [main] INFO  - >>>>>>After Scenario<<<<<<

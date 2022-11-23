@@ -19,7 +19,7 @@ public class StepDefinition {
     @Given("user lands on the Google home page")
     public void user_lands_on_the_home_page() {
         driver.get("https://www.google.com/");
-        Log.info("Loading google.com");
+        Log.info("Loading google.com in browser");
     }
 
     @When("page title is Google")
